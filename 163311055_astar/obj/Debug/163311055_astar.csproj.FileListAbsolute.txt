@@ -1,0 +1,33 @@
+C:\Users\Mrs Engineer\source\repos\163311055_astar\bin\Debug\163311055_astar.exe.config
+C:\Users\Mrs Engineer\source\repos\163311055_astar\bin\Debug\163311055_astar.exe
+C:\Users\Mrs Engineer\source\repos\163311055_astar\bin\Debug\163311055_astar.pdb
+C:\Users\Mrs Engineer\source\repos\163311055_astar\obj\Debug\163311055_astar.csprojAssemblyReference.cache
+C:\Users\Mrs Engineer\source\repos\163311055_astar\obj\Debug\_163311055_astar.MainPage.resources
+C:\Users\Mrs Engineer\source\repos\163311055_astar\obj\Debug\_163311055_astar.Properties.Resources.resources
+C:\Users\Mrs Engineer\source\repos\163311055_astar\obj\Debug\_163311055_astar.UI.UIPlayAbout.resources
+C:\Users\Mrs Engineer\source\repos\163311055_astar\obj\Debug\163311055_astar.csproj.GenerateResource.cache
+C:\Users\Mrs Engineer\source\repos\163311055_astar\obj\Debug\163311055_astar.csproj.CoreCompileInputs.cache
+C:\Users\Mrs Engineer\source\repos\163311055_astar\obj\Debug\163311055_astar.exe
+C:\Users\Mrs Engineer\source\repos\163311055_astar\obj\Debug\163311055_astar.pdb
+C:\Users\Mrs Engineer\Desktop\YZ ÖDEV\163311055_AyseSimsek\163311055_astar\bin\Debug\163311055_astar.exe.config
+C:\Users\Mrs Engineer\Desktop\YZ ÖDEV\163311055_AyseSimsek\163311055_astar\bin\Debug\163311055_astar.exe
+C:\Users\Mrs Engineer\Desktop\YZ ÖDEV\163311055_AyseSimsek\163311055_astar\bin\Debug\163311055_astar.pdb
+C:\Users\Mrs Engineer\Desktop\YZ ÖDEV\163311055_AyseSimsek\163311055_astar\obj\Debug\163311055_astar.csprojAssemblyReference.cache
+C:\Users\Mrs Engineer\Desktop\YZ ÖDEV\163311055_AyseSimsek\163311055_astar\obj\Debug\_163311055_astar.MainPage.resources
+C:\Users\Mrs Engineer\Desktop\YZ ÖDEV\163311055_AyseSimsek\163311055_astar\obj\Debug\_163311055_astar.Properties.Resources.resources
+C:\Users\Mrs Engineer\Desktop\YZ ÖDEV\163311055_AyseSimsek\163311055_astar\obj\Debug\_163311055_astar.UI.UIPlayAbout.resources
+C:\Users\Mrs Engineer\Desktop\YZ ÖDEV\163311055_AyseSimsek\163311055_astar\obj\Debug\163311055_astar.csproj.GenerateResource.cache
+C:\Users\Mrs Engineer\Desktop\YZ ÖDEV\163311055_AyseSimsek\163311055_astar\obj\Debug\163311055_astar.csproj.CoreCompileInputs.cache
+C:\Users\Mrs Engineer\Desktop\YZ ÖDEV\163311055_AyseSimsek\163311055_astar\obj\Debug\163311055_astar.exe
+C:\Users\Mrs Engineer\Desktop\YZ ÖDEV\163311055_AyseSimsek\163311055_astar\obj\Debug\163311055_astar.pdb
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_AyseSimsek_AStar_GA\163311055_astar\bin\Debug\163311055_astar.exe.config
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_AyseSimsek_AStar_GA\163311055_astar\bin\Debug\163311055_astar.exe
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_AyseSimsek_AStar_GA\163311055_astar\bin\Debug\163311055_astar.pdb
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_AyseSimsek_AStar_GA\163311055_astar\obj\Debug\163311055_astar.csprojAssemblyReference.cache
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_AyseSimsek_AStar_GA\163311055_astar\obj\Debug\_163311055_astar.MainPage.resources
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_AyseSimsek_AStar_GA\163311055_astar\obj\Debug\_163311055_astar.Properties.Resources.resources
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_AyseSimsek_AStar_GA\163311055_astar\obj\Debug\_163311055_astar.UI.UIPlayAbout.resources
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_AyseSimsek_AStar_GA\163311055_astar\obj\Debug\163311055_astar.csproj.GenerateResource.cache
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_AyseSimsek_AStar_GA\163311055_astar\obj\Debug\163311055_astar.csproj.CoreCompileInputs.cache
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_AyseSimsek_AStar_GA\163311055_astar\obj\Debug\163311055_astar.exe
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_AyseSimsek_AStar_GA\163311055_astar\obj\Debug\163311055_astar.pdb
